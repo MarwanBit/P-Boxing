@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+.idea/*
+.vscode/*
+data/video/*
+__pycache__/*
+checkpoints/*
+kt_dir/*
